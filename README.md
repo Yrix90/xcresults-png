@@ -25,3 +25,5 @@ Below are a few examples of common commands. For further assistance, use the --h
 After that you can generate Allure report by following command: 
 
 `allure serve /path/to/outputDirectory`
+
+Test
